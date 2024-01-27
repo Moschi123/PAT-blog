@@ -1,7 +1,7 @@
 <div class="services_section layout_padding" style="margin-bottom: 20px;">
     <div class="container">
         <h1 class="services_taital">Enjoy </h1>
-        <p class="services_text">"A unique place on Earth.</p>
+        <p class="services_text">"A unique place on Earth.ñ</p>
         <div class="services_section_2">
             <div class="row">
                 @foreach($post as $post)
